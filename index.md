@@ -2,11 +2,13 @@
 layout: page
 ---
 |---------------------------|-------------------------------|-----------------------------|-----------------------|-----------------------------------------|--------------|
-| [Experience](#experience) |
-
+| [Experience](#experiencia) |
+Experience
 - - -
 
 ## **Arthur Phillip D. Silva**
 
-## Experience
-UFMG - SI
+## Experiencia
+* Estudante de Sistemas de Informação @ Universidade Federal de Minas Gerais.
+
+## [Github](https://github.com/artphil7)
