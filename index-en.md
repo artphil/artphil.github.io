@@ -1,17 +1,16 @@
 ---
 layout: page
 ---
-|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|
-| [Experiencia](#experiencia) | [Trabalhos](#trabalhos) | [Português](index.md)
+| [Experience](#experience) | [Works](#works) | [Português](index.md) |
 - - -
 
 ## **Art**hur **Phil**lip D. Silva
 
-## Experiencia
+## Experience
 [Github](https://github.com/artphil7) </br>
-graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt-br/bsi)) </br>
-pelo **D**epartamento de **C**iência da **C**omputação ([DCC](http://dcc.ufmg.br/dcc/)) </br>
-da **U**niversidade **F**ederal de **M**inas **G**erais ([UFMG](https://www.ufmg.br/)).
+student of **I**nformation **S**ystems ([IS](http://dcc.ufmg.br/dcc/?q=en/node/353)) </br>
+in **D**epartamento de **C**iência da **C**omputação ([DCC](http://dcc.ufmg.br/dcc/)) </br>
+of **U**niversidade **F**ederal de **M**inas **G**erais ([UFMG](https://www.ufmg.br/)).
 
-## Trabalhos
-[Batalha Naval em C](https://github.com/artphil7/naval_batle_game)
+## Works
+[Naval Batle Game in C](https://github.com/artphil7/naval_batle_game)
