@@ -9,7 +9,7 @@ layout: page
 ## Experience
 [Github](https://github.com/artphil7) </br>
 student of **I**nformation **S**ystems ([IS](http://dcc.ufmg.br/dcc/?q=en/node/353)) </br>
-in **D**epartamento de **C**iência da **C**omputação ([DCC](http://dcc.ufmg.br/dcc/)) </br>
+in **D**epartamento de **C**iência da **C**omputação ([DCC](http://dcc.ufmg.br/dcc/?q=en)) </br>
 of **U**niversidade **F**ederal de **M**inas **G**erais ([UFMG](https://www.ufmg.br/)).
 
 ## Works

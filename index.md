@@ -1,8 +1,7 @@
 ---
 layout: page
 ---
-|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|
-| [Experiencia](#experiencia) | [Trabalhos](#trabalhos) | [English](index-en.md)
+| [Experiencia](#experiencia) | [Trabalhos](#trabalhos) | [English](index-en.md) |
 - - -
 
 ## **Art**hur **Phil**lip D. Silva
