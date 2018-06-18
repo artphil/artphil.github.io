@@ -6,6 +6,8 @@ layout: page
 
 ## **Art**hur **Phil**lip D. Silva
 
+<img src="https://avatars2.githubusercontent.com/u/10052259?s=460&v=4">
+
 ## Experiencia
 [Github](https://github.com/artphil7) </br>
 graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt-br/bsi)) </br>
