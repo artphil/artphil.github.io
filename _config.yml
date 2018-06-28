@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Arthur Phillip Silva
+# title: Arthur Phillip Silva
 email: artphil@ufmg.br
 description: > # this means to ignore newlines until "baseurl:"
   Arthur Phillip Silva is a Information Systems Student @ UFMG
