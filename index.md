@@ -1,18 +1,19 @@
 ---
 layout: page
+title: Artphil 
 ---
-| [Experiencia](#experiencia) | [Trabalhos](#trabalhos) | [English](index-en.md) |
+| [Experiencia](#experiencia) | [Trabalhos](#trabalhos) | [OpenSource](#opensource) | [English](index-en.md) |
 - - -
 
 ## **Art**hur **Phil**lip D. Silva
 
-<img src="https://avatars2.githubusercontent.com/u/10052259?s=460&v=4">
+![artphil](https://avatars2.githubusercontent.com/u/10052259?s=460&v=4)
 
 ## Experiencia
-[Github](https://github.com/artphil7) </br>
-graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt-br/bsi)) </br>
-pelo **D**epartamento de **C**iência da **C**omputação ([DCC](http://dcc.ufmg.br/dcc/)) </br>
-da **U**niversidade **F**ederal de **M**inas **G**erais ([UFMG](https://www.ufmg.br/)).
+Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt-br/bsi)) pelo **D**epartamento de **C**iência da **C**omputação ([DCC](http://dcc.ufmg.br/dcc/)) da **U**niversidade **F**ederal de **M**inas **G**erais ([UFMG](https://www.ufmg.br/)).
 
 ## Trabalhos
 [Batalha Naval em C](https://github.com/artphil7/naval_batle_game)
+
+## OpenSource
+[Github](https://github.com/artphil7)
