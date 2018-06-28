@@ -17,4 +17,6 @@ github_username:  artphil
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-tactile
+
+# Custom vars
+version:             1.0.0
