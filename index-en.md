@@ -4,7 +4,7 @@ layout: page
 | [Experience](#experience) | [Works](#works) | [OpenSource](#opensource) | [Português](index.md) |
 - - -
 
-## **Art**hur **Phil**lip D. Silva
+<!-- ## **Art**hur **Phil**lip D. Silva -->
 
 ## Experience
 

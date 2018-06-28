@@ -4,7 +4,7 @@ layout: page
 | [Experiencia](#experiencia) | [Trabalhos](#trabalhos) | [OpenSource](#opensource) | [English](index-en.md) |
 - - -
 
-## **Art**hur **Phil**lip D. Silva
+<!-- ## **Art**hur **Phil**lip D. Silva -->
 
 <!-- ![artphil](https://avatars2.githubusercontent.com/u/10052259?s=460&v=4) -->
 
