@@ -12,7 +12,8 @@ layout: page
 Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt-br/bsi)) pelo **D**epartamento de **C**iência da **C**omputação ([DCC](http://dcc.ufmg.br/dcc/)) da **U**niversidade **F**ederal de **M**inas **G**erais ([UFMG](https://www.ufmg.br/)).
 
 ## Trabalhos
-[Batalha Naval em C](https://github.com/artphil/naval_batle_game/blob/master/README.md)
+[Batalha Naval em C](https://artphil.github.io/naval_batle_game/)
+[Robot car](https://artphil.github.io/robot_car/)
 
 ## OpenSource
 [Github](https://github.com/artphil7)
