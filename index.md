@@ -13,6 +13,7 @@ Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt
 
 ## Trabalhos
 [Batalha Naval em C](https://artphil.github.io/naval_batle_game/)
+
 [Robot car](https://artphil.github.io/robot_car/)
 
 ## OpenSource
