@@ -13,5 +13,9 @@ Student of **I**nformation **S**ystems ([IS](http://dcc.ufmg.br/dcc/?q=en/node/3
 ## Works
 [Naval Batle Game in C](https://github.com/artphil7/naval_batle_game)
 
+[Robot car](https://artphil.github.io/robot_car/)
+
+[Work service scale to CBTU company](https://artphil.github.io/escala_gen/)
+
 ## OpenSource
-[Github](https://github.com/artphil7)
+[Github](https://github.com/artphil)

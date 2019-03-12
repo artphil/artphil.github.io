@@ -16,5 +16,7 @@ Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt
 
 [Robot car](https://artphil.github.io/robot_car/)
 
+[Escala de serviço CBTU](https://artphil.github.io/escala_gen/)
+
 ## OpenSource
-[Github](https://github.com/artphil7)
+[Github](https://github.com/artphil)
