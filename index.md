@@ -18,5 +18,7 @@ Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt
 
 [Escala de serviço](https://artphil.github.io/escala_gen/)
 
+[As aventuras de Hipsta](https://artphil.github.io/alura-game-dev/)
+
 ## OpenSource
 [Github](https://github.com/artphil)
