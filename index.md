@@ -22,3 +22,9 @@ Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt
 
 ## OpenSource
 [Github](https://github.com/artphil)
+
+## Referências
+### Programação
+[ideias para portifólio](https://github.com/florinpop17/app-ideas)
+### Font-End
+[Normalize CSS](https://github.com/necolas/normalize.css/)
