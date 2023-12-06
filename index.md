@@ -28,3 +28,9 @@ Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt
 [ideias para portifólio](https://github.com/florinpop17/app-ideas)
 ### Font-End
 [Normalize CSS](https://github.com/necolas/normalize.css/)
+### Design
+- Cores
+[Coolors](https://coolors.co/)
+[Adobe Color](https://color.adobe.com/pt/create/color-wheel)
+[Color Hunt](https://colorhunt.co/)
+[Color Tool](https://m2.material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=6002ee)
