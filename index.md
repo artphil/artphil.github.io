@@ -28,6 +28,7 @@ Graduando em **S**istemas de **I**nformação ([SI](http://dcc.ufmg.br/dcc/?q=pt
 [ideias para portifólio](https://github.com/florinpop17/app-ideas)
 ### Font-End
 [Normalize CSS](https://github.com/necolas/normalize.css/)
+[flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 ### Design
 - Cores
 [Coolors](https://coolors.co/)
