@@ -89,6 +89,7 @@ nav a:hover {
 .presentation__content__title {
     font-size: var(--font-size-title);
     font-family: 'Krona One', sans-serif;
+    text-align: center;
 }
 
 .presentation__content__text {
