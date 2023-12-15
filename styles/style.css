@@ -96,6 +96,7 @@ nav a:hover {
 .presentation__content__text {
     font-size: var(--font-size-text);
     font-family: var(--font-text);
+    text-align: justify;
 }
 
 .presentation__content__buttons {
