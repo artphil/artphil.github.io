@@ -34,6 +34,7 @@ header {
 nav {
     display: flex;
     gap: 80px;
+    flex-wrap: wrap;
 }
 
 nav a {
