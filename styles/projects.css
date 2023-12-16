@@ -1,13 +1,19 @@
 .project {
     display: flex;
     justify-content: space-between;
-    height: 30vh;
     gap: 1rem;
+    min-height: 30vh;
+    padding-bottom: 2rem;
+}
+
+.project__content__descripition {
+    text-align: justify;
 }
 
 .project__buttons {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: 1rem;
 }
 
