@@ -142,6 +142,15 @@ footer {
     font-weight: 600;
 }
 
+.social {
+    margin-bottom: 0.5rem;
+display: flex;
+justify-content: center;
+gap: 20px;
+}
+
+.social__link {}
+
 @media (max-width: 1200px) {
     header {
         padding-left: 0;
