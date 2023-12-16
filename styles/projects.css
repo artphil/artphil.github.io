@@ -1,0 +1,20 @@
+.project {
+    display: flex;
+    justify-content: space-between;
+    height: 30vh;
+    gap: 1rem;
+}
+
+.project__buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+@media (max-width: 1200px) {
+    .project {
+        flex-direction: column;
+        height: fit-content;
+        padding-bottom: 2rem;
+    }
+}

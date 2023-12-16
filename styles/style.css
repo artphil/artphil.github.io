@@ -121,7 +121,7 @@ main {
     gap: 10px;
 }
 
-.presentation__content__buttons__link {
+.button-primary {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -135,7 +135,7 @@ main {
     text-align: center;
 }
 
-.presentation__content__buttons__link:hover {
+.button-primary:hover {
     background-color: var(--color-hover);
     color: var(--color-primary);
 }
