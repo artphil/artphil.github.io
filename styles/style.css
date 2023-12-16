@@ -50,6 +50,14 @@ p, a {
     font-size: var(--font-size-text);
 } 
 
+a {
+    color: var(--color-primary);
+}
+
+a:hover {
+    color: var(--color-secondary);
+}
+
 header {
     padding: 2% 0 0 15%;
 }
@@ -62,12 +70,7 @@ nav {
 
 nav a {
     font-size: var(--font-size-text);
-    color: var(--color-primary);
     font-weight: 600;
-}
-
-nav a:hover {
-    color: var(--color-secondary);
 }
 
 .emphasis {
@@ -92,15 +95,6 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     gap: 40px;
-}
-
-.presentation__content__link {
-    text-decoration: none;
-    color: var(--color-primary);
-}
-
-.presentation__content__link:hover {
-    color: var(--color-secondary);
 }
 
 .presentation__content__title {
