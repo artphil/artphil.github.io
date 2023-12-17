@@ -1,7 +1,7 @@
 .project {
     display: flex;
     justify-content: space-between;
-    gap: 1rem;
+    gap: 2rem;
     min-height: 30vh;
     padding-bottom: 2rem;
 }
