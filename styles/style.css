@@ -164,7 +164,8 @@ gap: 20px;
 
     nav {
         justify-content: center;
-    }
+    gap: 20px;
+}
 
     main {
         padding: 15% 5%;

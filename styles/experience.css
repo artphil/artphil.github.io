@@ -1,25 +1,26 @@
-.project {
+.experience {
     display: flex;
-    justify-content: space-between;
     gap: 1rem;
     min-height: 30vh;
     padding-bottom: 2rem;
 }
 
-.project__content__descripition {
+.experience__list__item {
+    padding-bottom: 2rem;
+}
+
+.experience__list__item li {
+    padding-bottom: 1rem;
+
+}
+
+.experience__list__item p {
     padding-bottom: 1rem;
     text-align: justify;
 }
 
-.project__buttons {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 1rem;
-}
-
 @media (max-width: 1200px) {
-    .project {
+    .experience {
         flex-direction: column;
         height: fit-content;
         padding-bottom: 2rem;
