@@ -22,6 +22,12 @@
     border: 0;
 }
 
+html {
+    font-family: var(--font-text);
+    font-size: 16px;
+    font-weight: 400;
+}
+
 ol,
 ul {
     list-style: none;
@@ -44,12 +50,6 @@ h2 {
 
 h3 {
     font-size: var(--font-size-title-s);
-}
-
-p,
-a {
-    font-family: var(--font-text);
-    font-size: var(--font-size-text);
 }
 
 a {
