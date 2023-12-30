@@ -64,6 +64,12 @@ h3 {
     font-size: var(--font-size-title-s);
 }
 
+p,
+a {
+    font-size: var(--font-size-text);
+    line-height: 1.2em;
+}
+
 a {
     color: var(--color-primary);
     text-decoration: none;
