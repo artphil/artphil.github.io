@@ -1,5 +1,6 @@
 /* CSS HEX */
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&family=Roboto&display=swap');
+@import url(header.css);
 
 :root {
     --color-bg: #080705;
@@ -69,22 +70,6 @@ a {
 
 a:hover {
     color: var(--color-secondary);
-}
-
-
-header {
-    padding: 2% 0 0 15%;
-}
-
-.navbar {
-    display: flex;
-    gap: 80px;
-    flex-wrap: wrap;
-}
-
-nav a {
-    font-size: var(--font-size-text);
-    font-weight: 600;
 }
 
 .emphasis {
@@ -166,16 +151,11 @@ footer {
     gap: 20px;
 }
 
+.source-code {
+    margin-left: auto;
+}
+
 @media (max-width: 1200px) {
-    header {
-        padding-left: 0;
-    }
-
-    nav {
-        justify-content: center;
-        gap: 20px;
-    }
-
     main {
         padding: 15% 5%;
     }
