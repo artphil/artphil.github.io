@@ -1,0 +1,20 @@
+.reference {
+    min-height: 10vh;
+    padding-bottom: 2rem;
+}
+
+.reference__list {
+    padding-left: 30%;
+}
+
+.reference__link {
+    font-size: var(--font-size-title-s);
+    padding-bottom: 2rem;
+}
+
+@media (max-width: 1200px) {
+    .reference {
+        flex-direction: column;
+        height: fit-content;
+    }
+}
