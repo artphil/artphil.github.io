@@ -76,7 +76,7 @@ header {
     padding: 2% 0 0 15%;
 }
 
-nav {
+.navbar {
     display: flex;
     gap: 80px;
     flex-wrap: wrap;
