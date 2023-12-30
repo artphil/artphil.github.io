@@ -27,7 +27,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+
     box-sizing: border-box;
     background-color: var(--color-bg);
 
@@ -155,6 +155,15 @@ footer {
 .source-code {
     margin-left: auto;
 }
+
+.svg-ico {
+    fill: var(--color-bg);
+}
+
+.svg-ico:hover {
+    fill: var(--color-analogous);
+}
+
 
 @media (max-width: 1200px) {
     main {
