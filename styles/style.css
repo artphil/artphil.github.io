@@ -119,8 +119,7 @@ footer {
 .social {
     margin-bottom: 0.5rem;
     display: flex;
-    justify-content: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 .source-code {
@@ -129,7 +128,7 @@ footer {
 
 .svg-ico {
     fill: var(--color-bg);
-    width: 6rem;
+    width: 4rem;
 }
 
 .svg-ico:hover {
@@ -140,6 +139,10 @@ footer {
 @media (max-width: 1200px) {
     main {
         padding: 15% 5%;
+    }
+
+    .social {
+        gap: 0;
     }
 }
 
