@@ -51,7 +51,7 @@ nav a {
     display: block;
     border: 1px solid var(--color-primary);
     padding: 1rem;
-    width: 60vw;
+    width: 94vw;
 }
 
 .menu__item:hover {
@@ -74,10 +74,6 @@ nav a {
 
     .menu__list {
         position: relative;
-    }
-
-    .menu__item {
-        width: 95vw;
     }
 
 }
