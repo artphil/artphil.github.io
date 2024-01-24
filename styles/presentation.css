@@ -59,8 +59,13 @@
   }
 
   .presentation__content {
-    width: auto;
+
+    width: 100%;
   }
 }
 
-@media (max-width: 450px) {}
+@media (max-width: 450px) {
+  .presentation__content__title {
+    font-size: 1.2rem;
+  }
+}
