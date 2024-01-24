@@ -67,7 +67,7 @@ h3 {
 p,
 a {
     font-size: var(--font-size-text);
-    line-height: 1.2em;
+    line-height: 2rem;
 }
 
 a {
@@ -129,10 +129,11 @@ footer {
 
 .svg-ico {
     fill: var(--color-bg);
+    width: 6rem;
 }
 
 .svg-ico:hover {
-    fill: var(--color-analogous);
+    fill: var(--color-secondary);
 }
 
 
