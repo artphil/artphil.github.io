@@ -87,41 +87,6 @@ main {
     padding: 5% 15%;
 }
 
-.presentation {
-    display: flex;
-    align-items: start;
-    justify-content: space-between;
-    gap: 16px;
-}
-
-.presentation__image {
-    width: 50%;
-    max-width: fit-content;
-}
-
-.presentation__content {
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
-}
-
-.presentation__content__title {
-    text-align: center;
-}
-
-.presentation__content__text {
-    text-align: justify;
-}
-
-.presentation__content__buttons {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    gap: 10px;
-}
-
 .button-primary {
     display: flex;
     align-items: center;
@@ -174,19 +139,6 @@ footer {
 @media (max-width: 1200px) {
     main {
         padding: 15% 5%;
-    }
-
-    .presentation {
-        flex-direction: column-reverse;
-        align-items: center;
-    }
-
-    .presentation__image {
-        width: auto;
-    }
-
-    .presentation__content {
-        width: auto;
     }
 }
 
