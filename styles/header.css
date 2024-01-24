@@ -60,7 +60,7 @@ nav a {
 
 @media (max-width: 1200px) {
     header {
-        padding-left: 0;
+        padding: 0;
     }
 
     .navbar {
@@ -69,6 +69,15 @@ nav a {
 
     .menu {
         display: flex;
-      
+
     }
+
+    .menu__list {
+        position: relative;
+    }
+
+    .menu__item {
+        width: 95vw;
+    }
+
 }
